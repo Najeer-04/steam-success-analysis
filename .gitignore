@@ -1,0 +1,16 @@
+# virtual environment
+venv/
+
+# raw data — too large for git
+data/raw/
+data/database/*.db
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# OS noise
+Thumbs.db
