@@ -1,0 +1,10 @@
+genre,total_games,avg_owners,avg_positive_ratio,avg_success_score,avg_price
+RPG,3417,201288.0,0.733,13.12,9.49
+Action,8811,264472.0,0.723,12.94,8.53
+Adventure,7592,141864.0,0.732,12.87,8.38
+Strategy,4053,186493.0,0.705,12.73,9.4
+Massively Multiplayer,631,705753.0,0.625,12.66,5.19
+Casual,6835,74954.0,0.723,12.56,5.33
+Racing,760,109980.0,0.686,12.36,10.09
+Sports,919,108776.0,0.7,12.34,11.3
+Simulation,4015,128041.0,0.682,12.27,9.76
