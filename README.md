@@ -218,14 +218,17 @@ The Power BI dashboard has three pages:
 **Page 1 — Market Overview**
 High-level KPIs, genre distribution treemap, price distribution, and the Steam 
 Flood Effect trend chart.
+![Market Overview](assets/page1_market_overview.png)
 
 **Page 2 — Success Drivers**
 Price tier analysis across reach, satisfaction and playtime. Genre comparison 
 showing the MMO paradox — highest reach, lowest satisfaction.
+![Success Drivers](assets/page2_success_drivers.png)
 
 **Page 3 — Deep Dive**
 Interactive slicers for genre, price tier, and release year. Tag performance 
 rankings and studio size comparison. All charts update dynamically with filters.
+![Deep Dive](assets/page3_deep_dive.png)
 
 ---
 
